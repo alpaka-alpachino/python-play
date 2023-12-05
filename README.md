@@ -1,12 +1,7 @@
 # python-play
 
 ## Description
-The aim of that project is to provide a playground to learn Python
 
-## Infrastructure
+That repository contains the set of POCs for different task solutions in Python
 
-# practical 
-Directory consist python scripts to solve practical tasks
-
-# theoretical 
-Directory consist answers to theoretical questions
+[Docs](https://docs.google.com/document/d/1TkUBTnibP8n_vccUVHExlQ7v1wHeAFOAaAxj0NwLfBw/edit?usp=sharing)
