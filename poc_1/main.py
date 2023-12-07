@@ -31,4 +31,4 @@ async def set_watermark(file: UploadFile):
 
 
 if __name__ == '__main__':
-    uvicorn.run("main:app", host='0.0.0.0', port=8080, reload=True, workers=8)
+    uvicorn.run("main:app", host='0.0.0.0', port=8080, reload=False, workers=16)
